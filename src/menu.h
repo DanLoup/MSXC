@@ -1,0 +1,2 @@
+void BootMenu();
+void LoopMenu();

@@ -1,0 +1,1 @@
+This emulator uses the same bios files as the FMSX for it's built in systems
